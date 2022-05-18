@@ -4,6 +4,8 @@ res = requests.get("https://raw.github.com/kpandian-ucsc/dummy-ci/main/cloud-for
 print(res.text)
 
 # dapi1a2b3c45d67890e1f234567a8bc9012d
+# dapi1a2b3c45d67890e1f234567a8bc9012d
+token = 'dapi1a2b3c45d67890e1f234567a8bc911dd'
 
 
     # "https://raw.github.com/kpandian-ucsc/dummy-ci/main/cloud-formation.yaml"
